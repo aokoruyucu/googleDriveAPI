@@ -1,0 +1,3 @@
+{"response":"success","name":"MGMT901-KA-201902","tdID":"0AIX-LVNa70w_Uk9PVA","fonksiyon":"createdrive"},
+{"response":"success","tdID":"0AIX-LVNa70w_Uk9PVA","email":"MGMT901-KA-201902_inst@sabanciuniv.edu","rol":"fileOrganizer","fonksiyon":"addMember"},
+{"response":"success","tdID":"0AIX-LVNa70w_Uk9PVA","email":"MGMT901-KA-201902_stu@sabanciuniv.edu","rol":"reader","fonksiyon":"addMember"},

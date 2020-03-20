@@ -1,0 +1,3 @@
+{"response":"error","message":"{\n \"error\": {\n  \"errors\": [\n   {\n    \"domain\": \"global\",\n    \"reason\": \"internalError\",\n    \"message\": \"Internal Error\"\n   }\n  ],\n  \"code\": 500,\n  \"message\": \"Internal Error\"\n }\n}\n","name":"MGMT901-KA-201902","fonksiyon":"createdrive"},
+{"response":"error","message":"(create) missing required param: 'fileId'","tdID":null,"email":"MGMT901-KA-201902_inst@sabanciuniv.edu","rol":"fileOrganizer","fonksiyon":"addMember"},
+{"response":"error","message":"(create) missing required param: 'fileId'","tdID":null,"email":"MGMT901-KA-201902_stu@sabanciuniv.edu","rol":"reader","fonksiyon":"addMember"},

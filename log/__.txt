@@ -1,0 +1,6 @@
+{"response":"error","message":"{\n  \"error\": \"unauthorized_client\",\n  \"error_description\": \"Unauthorized\"\n}","name":"ENG0004-4D2-201902","fonksiyon":"createdrive"},
+{"response":"error","message":"(create) missing required param: 'fileId'","tdID":null,"email":"ENG0004-4D2-201902_inst@sabanciuniv.edu","rol":"fileOrganizer","fonksiyon":"addMember"},
+{"response":"error","message":"(create) missing required param: 'fileId'","tdID":null,"email":"ENG0004-4D2-201902_stu@sabanciuniv.edu","rol":"reader","fonksiyon":"addMember"},
+{"response":"error","message":"{\n  \"error\": \"unauthorized_client\",\n  \"error_description\": \"Unauthorized\"\n}","name":"GR503M-201902","fonksiyon":"createdrive"},
+{"response":"error","message":"(create) missing required param: 'fileId'","tdID":null,"email":"GR503M-201902_inst@sabanciuniv.edu","rol":"fileOrganizer","fonksiyon":"addMember"},
+{"response":"error","message":"(create) missing required param: 'fileId'","tdID":null,"email":"GR503M-201902_stu@sabanciuniv.edu","rol":"reader","fonksiyon":"addMember"},
